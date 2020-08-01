@@ -1,5 +1,5 @@
 <templateSet group="myTemplet">
-  <template name="*" value="    *&#10;     * @Description  $end$&#10;     * @Author hanzhiqiang&#10;     * @Date $date$  $time$&#10;     * @Param  $param$  $end$&#10;     * @Return&#10;     **/" shortcut="ENTER" description="方法头注释" toReformat="false" toShortenFQNames="true">
+  <template name="*" value="*     &#10;     * @Description  $end$&#10;     * @Author hanzhiqiang&#10;     * @Date $date$  $time$&#10;     * @Param  $param$&#10;     * @Return&#10;     **/" shortcut="ENTER" description="方法头注释" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />

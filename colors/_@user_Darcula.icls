@@ -3,7 +3,7 @@
     <property name="created">2020-09-01T09:46:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.8.0.0</property>
-    <property name="modified">2020-09-02T11:47:24</property>
+    <property name="modified">2020-09-02T12:03:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -19,7 +19,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="b8fff" />
+        <option name="FOREGROUND" value="598dff" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
@@ -56,7 +56,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="b8fff" />
+        <option name="FOREGROUND" value="598dff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -81,7 +81,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="b8fff" />
+        <option name="FOREGROUND" value="598dff" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
@@ -106,7 +106,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="b8fff" />
+        <option name="FOREGROUND" value="598dff" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">

@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="访客信息表新增“预约记录id”字段-韩志强" type="SQL" />
+      <mapping pattern="访客信息表新增证件类型（身份证号改为证件编号）-韩志强" type="SQL" />
     </extensionMap>
   </component>
 </application>

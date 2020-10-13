@@ -5,6 +5,7 @@
       <mapping pattern="工作票风险卡子表加注释-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡危险分析与预控措施子表创建-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡新增主票id字段-韩志强" type="PLAIN_TEXT" />
+      <mapping pattern="工作票风险卡子表删除公共字段-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="访客信息表新增证件类型（身份证号改为证件编号）-韩志强" type="SQL" />
       <mapping pattern="访客新增性别及注释修改-韩志强" type="SQL" />
       <mapping pattern="免冠图片url类型由longtext改为varchar" type="SQL" />

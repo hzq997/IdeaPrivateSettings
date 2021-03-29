@@ -38,11 +38,14 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.47" />
+      <artifact name="MySQL Connector/J" rolling="false" version="5.1.47" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/Desktop/MyJars&amp;Utils/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar</url>
+      </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb">

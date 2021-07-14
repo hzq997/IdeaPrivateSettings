@@ -6,4 +6,7 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="HippieCompletion" />
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
 </keymap>

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1102-缺陷统计视图-韩志强" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="工作票风险卡新增作废时间，作废人，作废人id字段-韩志强" type="PLAIN_TEXT" />

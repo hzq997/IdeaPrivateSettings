@@ -2,14 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="1102-缺陷统计视图-韩志强" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="工作票风险卡新增作废时间，作废人，作废人id字段-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="联系单新增退回相关字段-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="停送电联系单子表-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="停送电联系单主表-韩志强" type="PLAIN_TEXT" />
-      <mapping pattern="工作票风险卡危险分析与预控措施子表创建-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡子表删除公共字段-韩志强" type="PLAIN_TEXT" />
+      <mapping pattern="工作票风险卡危险分析与预控措施子表创建-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡新增主票id字段-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡主表创建-韩志强" type="PLAIN_TEXT" />
       <mapping pattern="工作票风险卡新增票类型code字段-韩志强" type="PLAIN_TEXT" />
@@ -22,6 +20,7 @@
       <mapping pattern="访客信息表新增“预约记录id”字段-韩志强" type="SQL" />
       <mapping pattern="免冠图片url类型由longtext改为varchar" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

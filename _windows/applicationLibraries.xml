@@ -1,13 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="ibp">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/prj/projects/release/maven-project/repository/ibp" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://$USER_HOME$/Desktop/prj/projects/release/maven-project/repository/ibp" recursive="false" />
-    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -28,11 +20,11 @@
     </library>
     <library name="repository">
       <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/prj/projects/release/maven-project/repository" />
+        <root url="file://$USER_HOME$/Desktop/yf-prj/maven-project/repository" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-      <jarDirectory url="file://$USER_HOME$/Desktop/prj/projects/release/maven-project/repository" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Desktop/yf-prj/maven-project/repository" recursive="false" />
     </library>
   </component>
 </application>

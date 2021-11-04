@@ -18,13 +18,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="repository">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/yf-prj/maven-project/repository" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://$USER_HOME$/Desktop/yf-prj/maven-project/repository" recursive="false" />
-    </library>
   </component>
 </application>

@@ -22,7 +22,9 @@
       <mapping pattern="访客信息表新增证件类型（身份证号改为证件编号）-韩志强" type="SQL" />
       <mapping pattern="访客信息表新增“预约记录id”字段-韩志强" type="SQL" />
       <mapping pattern="免冠图片url类型由longtext改为varchar" type="SQL" />
+      <mapping ext="factories" type="spring.factories" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="factories" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>

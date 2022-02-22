@@ -128,6 +128,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bpmn20.xml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="activiti-bpmn-visualizer" />
+              <option name="myPluginName" value="Activiti BPMN visualizer" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cfg">
           <value>
             <plugin>

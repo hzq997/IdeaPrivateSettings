@@ -2,11 +2,11 @@
   <component name="libraryTable">
     <library name="lib">
       <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/dreamit-web/lib" />
+        <root url="file://$USER_HOME$/Desktop/WORKSPACE/bjdcj/dreamit-web/src/main/webapp/WEB-INF/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-      <jarDirectory url="file://$USER_HOME$/Desktop/dreamit-web/lib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Desktop/WORKSPACE/bjdcj/dreamit-web/src/main/webapp/WEB-INF/lib" recursive="false" />
     </library>
   </component>
 </application>

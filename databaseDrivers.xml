@@ -122,5 +122,17 @@
         <url>file://D:/dmdbms/drivers/jdbc/DmJdbcDriver18.jar</url>
       </library>
     </driver>
+    <driver id="5625f45d-028a-4b59-8af0-3b9b8f2dae91" name="kingbase driver" driver-class="com.kingbase8.Driver">
+      <remarks>人大金仓数据库驱动</remarks>
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://D:/MyWS/p2561_sanming_dreambos/DreamBOS/src/main/webapp/WEB-INF/lib/kingbase8-8.6.0.jar</url>
+      </library>
+    </driver>
   </component>
 </application>

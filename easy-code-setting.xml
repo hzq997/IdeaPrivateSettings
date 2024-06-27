@@ -1,6 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
-    <option name="author" value="makejava" />
+    <option name="author" value="hantian" />
     <option name="columnConfigGroupMap">
       <map>
         <entry key="Default">
@@ -290,6 +290,26 @@
                   <TypeMapper>
                     <option name="columnType" value="numeric(2)" />
                     <option name="javaType" value="java.lang.String" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="timestamp(29,6)" />
+                    <option name="javaType" value="java.util.Date" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="numeric(9)" />
+                    <option name="javaType" value="java.lang.Integer" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="text(max)" />
+                    <option name="javaType" value="java.lang.String" />
+                    <option name="matchType" value="ORDINARY" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="numeric(5)" />
+                    <option name="javaType" value="java.lang.Integer" />
                     <option name="matchType" value="ORDINARY" />
                   </TypeMapper>
                 </list>
